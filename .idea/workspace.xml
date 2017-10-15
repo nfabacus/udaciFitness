@@ -7,13 +7,9 @@
     <list default="true" id="407d1420-25d9-42de-b97e-0f4e3a6f4719" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App.js" afterPath="$PROJECT_DIR$/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/AddEntry.js" afterPath="$PROJECT_DIR$/components/AddEntry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/DateHeader.js" afterPath="$PROJECT_DIR$/components/DateHeader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/TextButton.js" afterPath="$PROJECT_DIR$/components/TextButton.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/UdaciSlider.js" afterPath="$PROJECT_DIR$/components/UdaciSlider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/UdaciSteppers.js" afterPath="$PROJECT_DIR$/components/UdaciSteppers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/colors.js" afterPath="$PROJECT_DIR$/utils/colors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/helpers.js" afterPath="$PROJECT_DIR$/utils/helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/api.js" afterPath="$PROJECT_DIR$/utils/api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <ignored path="UdaciFitness.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +36,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="294" />
-    <option name="y" value="210" />
+    <option name="x" value="-1085" />
+    <option name="y" value="-17" />
     <option name="width" value="891" />
     <option name="height" value="687" />
   </component>
@@ -160,7 +156,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="294" y="210" width="891" height="687" extended-state="0" />
+    <frame x="-1085" y="-17" width="891" height="687" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
